@@ -7,8 +7,10 @@ The main folder contains relevant Kicad files (.pro, .pcb, .sch). The `gerber` d
 
 # Board images
 PCB Layout:
+
 ![PCB Layout](https://i.imgur.com/ryNy0IK.png)
 
 Schematic:
+
 ![Schematic](https://i.imgur.com/WARaX6Y.png)
 
